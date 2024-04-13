@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC0301942BCB148700EC434F /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0301932BCB148700EC434F /* CardView.swift */; };
 		AC1D85EA2BCAABF600265879 /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1D85E92BCAABF600265879 /* AspectVGrid.swift */; };
 		AC5B39C42BBB362000795C12 /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5B39C32BBB362000795C12 /* MemorizeApp.swift */; };
 		AC5B39C62BBB362000795C12 /* EmojiMemorizeGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5B39C52BBB362000795C12 /* EmojiMemorizeGameView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC0301932BCB148700EC434F /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		AC1D85E92BCAABF600265879 /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 		AC5B39C02BBB362000795C12 /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC5B39C32BBB362000795C12 /* MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeApp.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				AC5B39C32BBB362000795C12 /* MemorizeApp.swift */,
 				AC5B39C52BBB362000795C12 /* EmojiMemorizeGameView.swift */,
+				AC0301932BCB148700EC434F /* CardView.swift */,
 				AC1D85E92BCAABF600265879 /* AspectVGrid.swift */,
 				ACD4D4E82BC16F79008326BD /* MemorizeGame.swift */,
 				ACD4D4EA2BC171AF008326BD /* EmojiMemorizeGame.swift */,
@@ -152,6 +155,7 @@
 				AC5B39C62BBB362000795C12 /* EmojiMemorizeGameView.swift in Sources */,
 				AC5B39C42BBB362000795C12 /* MemorizeApp.swift in Sources */,
 				AC1D85EA2BCAABF600265879 /* AspectVGrid.swift in Sources */,
+				AC0301942BCB148700EC434F /* CardView.swift in Sources */,
 				ACD4D4E92BC16F79008326BD /* MemorizeGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
